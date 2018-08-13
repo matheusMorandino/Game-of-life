@@ -11,7 +11,7 @@ recommended to maximize the promt for the graphics(or ASCII art, call it what yo
 --------------------------------------------------------------------------------------------------------------------------------------
 
 Uma simples aplicação java de console feita para simular o conway's game of life.
-Esse projeto foi feito durante as férias de inverno(agosto) de 2018 como um simples exercico de programação.
+Esse projeto foi feito durante as férias de inverno(agosto) de 2018 como um simples exercício de programação.
 
 -Instruções-
 
